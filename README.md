@@ -44,12 +44,18 @@ For training:
                          No of epochs: 500
                          batch_size: 32
                          
+                         
+After training basic maths is used to extract the required part from the image and embed filter over it
+
  **results:**
 
 
 https://user-images.githubusercontent.com/52177580/130363926-1e62bd5a-6062-466e-a050-b81f700cbcf6.mp4
 
-[![Watch the video]](https://github.com/yash88600/Snapchat-Filter-using-Transfer-Learning/blob/main/Results/output_hairband.mp4)
+
+
+https://user-images.githubusercontent.com/52177580/130364012-977c513e-b944-4d00-9188-ef34d98a1336.mp4
+
 
 
 
