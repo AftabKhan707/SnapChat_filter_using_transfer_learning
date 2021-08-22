@@ -54,5 +54,10 @@ For training:
 
 ![test4](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG) -->
 
+
+https://user-images.githubusercontent.com/52177580/130363926-1e62bd5a-6062-466e-a050-b81f700cbcf6.mp4
+
+
+
 **Note: The trained model is also provided**
 
