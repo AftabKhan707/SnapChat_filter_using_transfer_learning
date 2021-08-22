@@ -45,7 +45,7 @@ For training:
                          batch_size: 32
                          
                          
-*After determining the facial keypoints basic maths is used to extract the required part from the face and embed filter over it.
+After determining the facial keypoints basic maths is used to extract the required part from the face and embed filter over it.
 
  **results:**
 
