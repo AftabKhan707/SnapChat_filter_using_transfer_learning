@@ -45,17 +45,12 @@ For training:
                          batch_size: 32
                          
  **results:**
-       
-<!-- ![test1](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/100.PNG)
-
-![test2](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/12.PNG)
-
-![test3](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/1000.PNG)
-
-![test4](https://github.com/yash88600/Facial-Features-Detection/blob/master/Results/Capture.PNG) -->
 
 
 https://user-images.githubusercontent.com/52177580/130363926-1e62bd5a-6062-466e-a050-b81f700cbcf6.mp4
+
+[![Watch the video]](https://github.com/yash88600/Snapchat-Filter-using-Transfer-Learning/blob/main/Results/output_hairband.mp4)
+
 
 
 
